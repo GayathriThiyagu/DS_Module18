@@ -3,7 +3,7 @@
 To write a C program to implement Prim's Algorithm for finding Total Cost of tree.
 
 ## Algorithm
-1.Start the program.
+1. Start the program.
 2. Read the number of vertices n and the adjacency matrix G.
 3. Initialize the cost, spanning, distance, from, and visited arrays.
 4. Apply Prim’s algorithm to build the minimum spanning tree by selecting the vertex with the minimum distance, updating the spanning tree, and updating the distance array.
